@@ -1,11 +1,11 @@
 Teileliste Klipper Resonanzmessung
 
 1 oder 2mal	Beschleunigungsmesser MPU 6050	https://www.berrybase.de/gy-521-3-achsen-mpu-6050-beschleunigungssensor/gyroskop/accelerometer
-1			Raspberry Pico					https://www.berrybase.de/raspberry-pi-pico-rp2040-mikrocontroller-board
+1			Raspberry Pico					    https://www.berrybase.de/raspberry-pi-pico-rp2040-mikrocontroller-board
 1			Kupferlitze 0,14 schwarz		https://www.berrybase.de/kupferlitze-isoliert-1x0-14mm-10m?number=55045
-1			Kupferlitze 0,14 rot			https://www.berrybase.de/kupferlitze-isoliert-1x0-14mm-10m?number=55044
-1 			Kupferlitze 0,14 gelb			https://www.berrybase.de/kupferlitze-isoliert-1x0-14mm-10m?number=55041
-1 			Kupferlitze 0,14 blau			https://www.berrybase.de/kupferlitze-isoliert-1x0-14mm-10m?number=55039
-2 			Schrauben M3 x 6
-1 			Schraube M3 x 16
+1			Kupferlitze 0,14 rot			  https://www.berrybase.de/kupferlitze-isoliert-1x0-14mm-10m?number=55044
+1 		Kupferlitze 0,14 gelb		  	https://www.berrybase.de/kupferlitze-isoliert-1x0-14mm-10m?number=55041
+1 		Kupferlitze 0,14 blau			  https://www.berrybase.de/kupferlitze-isoliert-1x0-14mm-10m?number=55039
+2 		Schrauben M3 x 6
+1 		Schraube M3 x 16
 1			Mutter M3		
